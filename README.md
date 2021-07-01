@@ -3,8 +3,6 @@
 A web app for organizing my bookshelves, and for developing skills in Python, 
 Flask, HTML, and Heroku.
 
----
-
 ## Running Shelfify
 
 Pushing to the main branch of this repository causes Heroku to build and deploy
